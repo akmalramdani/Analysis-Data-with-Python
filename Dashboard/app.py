@@ -17,8 +17,8 @@ with st.sidebar:
     )
     st.write('Values:', values)
 #Load Data
-day_df = pd.read_csv("day.csv")
-hour_df= pd.read_csv("hour.csv")
+day_df = pd.read_csv("Dashboard/day.csv")
+hour_df= pd.read_csv("Dashboard/hour.csv")
 
 #DataFrame
 data = {
