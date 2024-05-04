@@ -1,7 +1,7 @@
 # Bike-Sharing-Data-Analysis
 ## Install Library
 ```
-pip install pandas streamlit matplotlib seaborn numpy sklearn
+pip install pandas streamlit matplotlib seaborn numpy sklearn.
 ```
 ## Run Streamlit app
 ```
