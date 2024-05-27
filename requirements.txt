@@ -3,6 +3,4 @@ matplotlib
 streamlit
 numpy
 seaborn
-format_currency
-linregress
 Babel==2.6.0
