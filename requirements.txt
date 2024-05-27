@@ -5,3 +5,4 @@ numpy
 seaborn
 format_currency
 linregress
+babel
