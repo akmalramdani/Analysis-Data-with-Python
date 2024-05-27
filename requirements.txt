@@ -5,4 +5,4 @@ numpy
 seaborn
 format_currency
 linregress
-babel
+Babel==2.6.0
