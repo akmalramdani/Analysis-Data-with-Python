@@ -4,4 +4,7 @@ streamlit
 numpy
 seaborn
 Babel==2.6.0
-format-currency==0.0.2
+format_currency==0.0.2
+scipy.stats
+babel.numbers
+linregress
