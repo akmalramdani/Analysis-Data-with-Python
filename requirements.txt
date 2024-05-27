@@ -3,3 +3,5 @@ matplotlib
 streamlit
 numpy
 seaborn
+format_currency
+linregress
